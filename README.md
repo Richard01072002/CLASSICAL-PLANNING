@@ -116,3 +116,9 @@ actions = {
 plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 ```
+## Exact output:
+![image](https://github.com/kavinesh8476/19AI405ExpNo10/assets/118466561/50ee2f25-e9b6-4db2-a1dd-809ba2af6774)
+
+
+## Result:
+Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
